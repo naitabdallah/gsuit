@@ -2,3 +2,4 @@ py/venv
 main/node_modules
 py/output_chunks
 files
+main/api/cred.json
